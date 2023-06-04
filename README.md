@@ -1,2 +1,2 @@
-# cbit Mern stack internship - task1
+# CBIT Mern stack internship - task1
 # 160121737167
